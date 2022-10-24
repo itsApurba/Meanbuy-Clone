@@ -1,12 +1,12 @@
 
-# Clone of meanbuy.com
+# MeanBuy
 
-A web application for buying at for men’s, women’s, and kids’ electronics accessories.
+MeanBuy is a platform for you to buy products instantly or on a monthly subscription basis.
 
 
 ## Demo
 
-[Click Here](https://symphonious-liger-8b365d.netlify.app/)
+[Click Here](https://itsmeanbuy.netlify.app)
 ## Features ✨
 
 - Social Sign-in/Sign-up
